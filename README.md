@@ -5,4 +5,4 @@ Mesto Russia
 Проект содержит:
 html, css, Grid Layout, медиа-зопросы, Flexbox-вёрстку, попап и JavaScript.
 
-Ссылка на GitHub Pages: 
+Ссылка на GitHub Pages: https://antipovvaalina.github.io/mesto/index.html
