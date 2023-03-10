@@ -1,0 +1,11 @@
+.element__like {
+    width: 22px;
+    height: 19px;
+    background: url(../../../image/like.svg) no-repeat;
+    border: none;
+    margin: 28px 20px 0 0;
+}
+
+.element__like:hover {
+    background: url(../../../image/likehover.svg) no-repeat;
+}

@@ -1,0 +1,16 @@
+.elements {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 17px;
+    justify-content: center;
+    margin: 0 auto 0;
+    max-width: calc(100% - 400px);
+    padding: 0 0 70px;
+}
+
+@media (max-width: 910px) {
+    .elements {
+        padding: 0 0 48px;
+    }
+    
+}

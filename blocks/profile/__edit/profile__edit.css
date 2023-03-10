@@ -1,0 +1,17 @@
+.profile__edit {
+    background: url(../../../image/cursor.svg) 50% no-repeat;
+    width: 24px;
+    height: 24px;
+    border: 1px #fff solid;
+}
+
+@media (max-width: 910px) {
+    .profile__edit {
+        width: 18px;
+        height: 18px;
+    }
+}
+
+.profile__edit:hover {
+    opacity: 0.6;
+}
