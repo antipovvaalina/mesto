@@ -9,8 +9,20 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
+    padding: 0;
+    cursor: pointer;
 }
 
 .form__button:hover {
     opacity: 0.8;
+}
+
+@media (max-width: 585px) {
+    .form__button {
+        width: 238px;
+        height: 46px;
+        margin-top: 15px;
+        font-size: 14px;
+        line-height: 17px;
+    }
 }

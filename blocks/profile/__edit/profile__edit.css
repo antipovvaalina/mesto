@@ -3,6 +3,7 @@
     width: 24px;
     height: 24px;
     border: 1px #fff solid;
+    cursor: pointer;
 }
 
 @media (max-width: 910px) {
